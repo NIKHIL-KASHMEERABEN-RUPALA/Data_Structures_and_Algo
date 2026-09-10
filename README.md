@@ -92,6 +92,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/NIKHIL-KASHMEERABEN-RUPALA/Data_Structures_2026-27/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/NIKHIL-KASHMEERABEN-RUPALA/Data_Structures_2026-27/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/NIKHIL-KASHMEERABEN-RUPALA/Data_Structures_2026-27/tree/master/0501-find-mode-in-binary-search-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/NIKHIL-KASHMEERABEN-RUPALA/Data_Structures_2026-27/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 
 ## Bit Manipulation
 
@@ -149,6 +150,7 @@
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/NIKHIL-KASHMEERABEN-RUPALA/Data_Structures_2026-27/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/NIKHIL-KASHMEERABEN-RUPALA/Data_Structures_2026-27/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/NIKHIL-KASHMEERABEN-RUPALA/Data_Structures_2026-27/tree/master/0501-find-mode-in-binary-search-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/NIKHIL-KASHMEERABEN-RUPALA/Data_Structures_2026-27/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 
 ## Design
 
@@ -302,6 +304,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/NIKHIL-KASHMEERABEN-RUPALA/Data_Structures_2026-27/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/NIKHIL-KASHMEERABEN-RUPALA/Data_Structures_2026-27/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/NIKHIL-KASHMEERABEN-RUPALA/Data_Structures_2026-27/tree/master/0501-find-mode-in-binary-search-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/NIKHIL-KASHMEERABEN-RUPALA/Data_Structures_2026-27/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 
 ## Two Pointers
 
