@@ -18,6 +18,8 @@ struct Node {
 };
 
 
+
+
 /* ===== Graph ni structure ===== */
 struct Graph {
     int numVertices;            // total ketla vertex che
