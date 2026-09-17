@@ -1,0 +1,13 @@
+Algorithmic complexities
+
+Linear Search:
+Best = O(1)
+Average = O(n)
+Worst = O(n)
+Space = O(1)
+
+Binary Search:
+Best = O(1)
+Average = O(log n)
+Worst = O(log n)
+Space = O(1)
