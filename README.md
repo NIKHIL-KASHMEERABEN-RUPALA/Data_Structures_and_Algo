@@ -53,6 +53,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/NIKHIL-KASHMEERABEN-RUPALA/Data_Structures_2026-27/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/NIKHIL-KASHMEERABEN-RUPALA/Data_Structures_2026-27/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/NIKHIL-KASHMEERABEN-RUPALA/Data_Structures_2026-27/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0164-maximum-gap](https://github.com/NIKHIL-KASHMEERABEN-RUPALA/Data_Structures_2026-27/tree/master/0164-maximum-gap) |
 | [0486-predict-the-winner](https://github.com/NIKHIL-KASHMEERABEN-RUPALA/Data_Structures_2026-27/tree/master/0486-predict-the-winner) |
 | [0835-image-overlap](https://github.com/NIKHIL-KASHMEERABEN-RUPALA/Data_Structures_2026-27/tree/master/0835-image-overlap) |
 | [1019-next-greater-node-in-linked-list](https://github.com/NIKHIL-KASHMEERABEN-RUPALA/Data_Structures_2026-27/tree/master/1019-next-greater-node-in-linked-list) |
@@ -144,6 +145,12 @@
 | [0133-clone-graph](https://github.com/NIKHIL-KASHMEERABEN-RUPALA/Data_Structures_2026-27/tree/master/0133-clone-graph) |
 | [1096-brace-expansion-ii](https://github.com/NIKHIL-KASHMEERABEN-RUPALA/Data_Structures_2026-27/tree/master/1096-brace-expansion-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/NIKHIL-KASHMEERABEN-RUPALA/Data_Structures_2026-27/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+
+## Bucket Sort
+
+| Problem |
+| :--- |
+| [0164-maximum-gap](https://github.com/NIKHIL-KASHMEERABEN-RUPALA/Data_Structures_2026-27/tree/master/0164-maximum-gap) |
 
 ## Combinatorics
 
@@ -341,6 +348,12 @@
 | :--- |
 | [2029-stone-game-ix](https://github.com/NIKHIL-KASHMEERABEN-RUPALA/Data_Structures_2026-27/tree/master/2029-stone-game-ix) |
 
+## Pigeonhole Principle
+
+| Problem |
+| :--- |
+| [0164-maximum-gap](https://github.com/NIKHIL-KASHMEERABEN-RUPALA/Data_Structures_2026-27/tree/master/0164-maximum-gap) |
+
 ## Prefix Sum
 
 | Problem |
@@ -349,6 +362,12 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/NIKHIL-KASHMEERABEN-RUPALA/Data_Structures_2026-27/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3903-smallest-stable-index-i](https://github.com/NIKHIL-KASHMEERABEN-RUPALA/Data_Structures_2026-27/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/NIKHIL-KASHMEERABEN-RUPALA/Data_Structures_2026-27/tree/master/3904-smallest-stable-index-ii) |
+
+## Radix Sort
+
+| Problem |
+| :--- |
+| [0164-maximum-gap](https://github.com/NIKHIL-KASHMEERABEN-RUPALA/Data_Structures_2026-27/tree/master/0164-maximum-gap) |
 
 ## Recursion
 
@@ -385,6 +404,7 @@
 | [0015-3sum](https://github.com/NIKHIL-KASHMEERABEN-RUPALA/Data_Structures_2026-27/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/NIKHIL-KASHMEERABEN-RUPALA/Data_Structures_2026-27/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/NIKHIL-KASHMEERABEN-RUPALA/Data_Structures_2026-27/tree/master/0018-4sum) |
+| [0164-maximum-gap](https://github.com/NIKHIL-KASHMEERABEN-RUPALA/Data_Structures_2026-27/tree/master/0164-maximum-gap) |
 | [1096-brace-expansion-ii](https://github.com/NIKHIL-KASHMEERABEN-RUPALA/Data_Structures_2026-27/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/NIKHIL-KASHMEERABEN-RUPALA/Data_Structures_2026-27/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/NIKHIL-KASHMEERABEN-RUPALA/Data_Structures_2026-27/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
