@@ -51,6 +51,7 @@
 | [0018-4sum](https://github.com/NIKHIL-KASHMEERABEN-RUPALA/Data_Structures_2026-27/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/NIKHIL-KASHMEERABEN-RUPALA/Data_Structures_2026-27/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/NIKHIL-KASHMEERABEN-RUPALA/Data_Structures_2026-27/tree/master/0039-combination-sum) |
+| [0048-rotate-image](https://github.com/NIKHIL-KASHMEERABEN-RUPALA/Data_Structures_2026-27/tree/master/0048-rotate-image) |
 | [0078-subsets](https://github.com/NIKHIL-KASHMEERABEN-RUPALA/Data_Structures_2026-27/tree/master/0078-subsets) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/NIKHIL-KASHMEERABEN-RUPALA/Data_Structures_2026-27/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/NIKHIL-KASHMEERABEN-RUPALA/Data_Structures_2026-27/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -336,6 +337,7 @@
 | Problem |
 | :--- |
 | [0029-divide-two-integers](https://github.com/NIKHIL-KASHMEERABEN-RUPALA/Data_Structures_2026-27/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/NIKHIL-KASHMEERABEN-RUPALA/Data_Structures_2026-27/tree/master/0048-rotate-image) |
 | [0486-predict-the-winner](https://github.com/NIKHIL-KASHMEERABEN-RUPALA/Data_Structures_2026-27/tree/master/0486-predict-the-winner) |
 | [0836-rectangle-overlap](https://github.com/NIKHIL-KASHMEERABEN-RUPALA/Data_Structures_2026-27/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/NIKHIL-KASHMEERABEN-RUPALA/Data_Structures_2026-27/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -353,6 +355,7 @@
 
 | Problem |
 | :--- |
+| [0048-rotate-image](https://github.com/NIKHIL-KASHMEERABEN-RUPALA/Data_Structures_2026-27/tree/master/0048-rotate-image) |
 | [0835-image-overlap](https://github.com/NIKHIL-KASHMEERABEN-RUPALA/Data_Structures_2026-27/tree/master/0835-image-overlap) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/NIKHIL-KASHMEERABEN-RUPALA/Data_Structures_2026-27/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/NIKHIL-KASHMEERABEN-RUPALA/Data_Structures_2026-27/tree/master/3568-minimum-moves-to-clean-the-classroom) |
