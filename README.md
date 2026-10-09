@@ -246,6 +246,7 @@
 | :--- |
 | [0022-generate-parentheses](https://github.com/NIKHIL-KASHMEERABEN-RUPALA/Data_Structures_2026-27/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/NIKHIL-KASHMEERABEN-RUPALA/Data_Structures_2026-27/tree/master/0032-longest-valid-parentheses) |
+| [0070-climbing-stairs](https://github.com/NIKHIL-KASHMEERABEN-RUPALA/Data_Structures_2026-27/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/NIKHIL-KASHMEERABEN-RUPALA/Data_Structures_2026-27/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/NIKHIL-KASHMEERABEN-RUPALA/Data_Structures_2026-27/tree/master/0486-predict-the-winner) |
 | [0678-valid-parenthesis-string](https://github.com/NIKHIL-KASHMEERABEN-RUPALA/Data_Structures_2026-27/tree/master/0678-valid-parenthesis-string) |
@@ -347,6 +348,7 @@
 | :--- |
 | [0029-divide-two-integers](https://github.com/NIKHIL-KASHMEERABEN-RUPALA/Data_Structures_2026-27/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/NIKHIL-KASHMEERABEN-RUPALA/Data_Structures_2026-27/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/NIKHIL-KASHMEERABEN-RUPALA/Data_Structures_2026-27/tree/master/0070-climbing-stairs) |
 | [0486-predict-the-winner](https://github.com/NIKHIL-KASHMEERABEN-RUPALA/Data_Structures_2026-27/tree/master/0486-predict-the-winner) |
 | [0836-rectangle-overlap](https://github.com/NIKHIL-KASHMEERABEN-RUPALA/Data_Structures_2026-27/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/NIKHIL-KASHMEERABEN-RUPALA/Data_Structures_2026-27/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -368,6 +370,12 @@
 | [0835-image-overlap](https://github.com/NIKHIL-KASHMEERABEN-RUPALA/Data_Structures_2026-27/tree/master/0835-image-overlap) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/NIKHIL-KASHMEERABEN-RUPALA/Data_Structures_2026-27/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/NIKHIL-KASHMEERABEN-RUPALA/Data_Structures_2026-27/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+
+## Memoization
+
+| Problem |
+| :--- |
+| [0070-climbing-stairs](https://github.com/NIKHIL-KASHMEERABEN-RUPALA/Data_Structures_2026-27/tree/master/0070-climbing-stairs) |
 
 ## Merge Sort
 
