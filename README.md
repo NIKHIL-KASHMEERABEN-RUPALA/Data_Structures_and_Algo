@@ -62,6 +62,7 @@
 | [0136-single-number](https://github.com/NIKHIL-KASHMEERABEN-RUPALA/Data_Structures_2026-27/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/NIKHIL-KASHMEERABEN-RUPALA/Data_Structures_2026-27/tree/master/0137-single-number-ii) |
 | [0164-maximum-gap](https://github.com/NIKHIL-KASHMEERABEN-RUPALA/Data_Structures_2026-27/tree/master/0164-maximum-gap) |
+| [0219-contains-duplicate-ii](https://github.com/NIKHIL-KASHMEERABEN-RUPALA/Data_Structures_2026-27/tree/master/0219-contains-duplicate-ii) |
 | [0260-single-number-iii](https://github.com/NIKHIL-KASHMEERABEN-RUPALA/Data_Structures_2026-27/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/NIKHIL-KASHMEERABEN-RUPALA/Data_Structures_2026-27/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/NIKHIL-KASHMEERABEN-RUPALA/Data_Structures_2026-27/tree/master/0347-top-k-frequent-elements) |
@@ -332,6 +333,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/NIKHIL-KASHMEERABEN-RUPALA/Data_Structures_2026-27/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/NIKHIL-KASHMEERABEN-RUPALA/Data_Structures_2026-27/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0133-clone-graph](https://github.com/NIKHIL-KASHMEERABEN-RUPALA/Data_Structures_2026-27/tree/master/0133-clone-graph) |
+| [0219-contains-duplicate-ii](https://github.com/NIKHIL-KASHMEERABEN-RUPALA/Data_Structures_2026-27/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/NIKHIL-KASHMEERABEN-RUPALA/Data_Structures_2026-27/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/NIKHIL-KASHMEERABEN-RUPALA/Data_Structures_2026-27/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/NIKHIL-KASHMEERABEN-RUPALA/Data_Structures_2026-27/tree/master/0389-find-the-difference) |
@@ -495,6 +497,7 @@
 
 | Problem |
 | :--- |
+| [0219-contains-duplicate-ii](https://github.com/NIKHIL-KASHMEERABEN-RUPALA/Data_Structures_2026-27/tree/master/0219-contains-duplicate-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/NIKHIL-KASHMEERABEN-RUPALA/Data_Structures_2026-27/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/NIKHIL-KASHMEERABEN-RUPALA/Data_Structures_2026-27/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 
