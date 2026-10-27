@@ -672,6 +672,7 @@
 | [0175-combine-two-tables](https://github.com/NIKHIL-KASHMEERABEN-RUPALA/Data_Structures_2026-27/tree/master/0175-combine-two-tables) |
 | [0180-consecutive-numbers](https://github.com/NIKHIL-KASHMEERABEN-RUPALA/Data_Structures_2026-27/tree/master/0180-consecutive-numbers) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/NIKHIL-KASHMEERABEN-RUPALA/Data_Structures_2026-27/tree/master/0501-find-mode-in-binary-search-tree) |
+| [3963-create-grid-with-exactly-one-path](https://github.com/NIKHIL-KASHMEERABEN-RUPALA/Data_Structures_2026-27/tree/master/3963-create-grid-with-exactly-one-path) |
 
 ## Union-Find
 
