@@ -352,6 +352,7 @@
 | Problem |
 | :--- |
 | [0133-clone-graph](https://github.com/NIKHIL-KASHMEERABEN-RUPALA/Data_Structures_2026-27/tree/master/0133-clone-graph) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/NIKHIL-KASHMEERABEN-RUPALA/Data_Structures_2026-27/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 
 ## Greedy
 
@@ -406,6 +407,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/NIKHIL-KASHMEERABEN-RUPALA/Data_Structures_2026-27/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/NIKHIL-KASHMEERABEN-RUPALA/Data_Structures_2026-27/tree/master/0692-top-k-frequent-words) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/NIKHIL-KASHMEERABEN-RUPALA/Data_Structures_2026-27/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/NIKHIL-KASHMEERABEN-RUPALA/Data_Structures_2026-27/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 
 ## Iterator
 
@@ -548,6 +550,12 @@
 | [3525-find-x-value-of-array-ii](https://github.com/NIKHIL-KASHMEERABEN-RUPALA/Data_Structures_2026-27/tree/master/3525-find-x-value-of-array-ii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/NIKHIL-KASHMEERABEN-RUPALA/Data_Structures_2026-27/tree/master/3841-palindromic-path-queries-in-a-tree) |
 
+## Shortest Path
+
+| Problem |
+| :--- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/NIKHIL-KASHMEERABEN-RUPALA/Data_Structures_2026-27/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+
 ## Simulation
 
 | Problem |
@@ -638,6 +646,7 @@
 | [3498-reverse-degree-of-a-string](https://github.com/NIKHIL-KASHMEERABEN-RUPALA/Data_Structures_2026-27/tree/master/3498-reverse-degree-of-a-string) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/NIKHIL-KASHMEERABEN-RUPALA/Data_Structures_2026-27/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/NIKHIL-KASHMEERABEN-RUPALA/Data_Structures_2026-27/tree/master/3863-minimum-operations-to-sort-a-string) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/NIKHIL-KASHMEERABEN-RUPALA/Data_Structures_2026-27/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 
 ## Tree
 
